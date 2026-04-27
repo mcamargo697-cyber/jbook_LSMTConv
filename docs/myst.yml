@@ -10,6 +10,7 @@ project:
     - file: 2_teselas.ipynb
     - file: 3_formarMuestras.ipynb
     - file: 4_arquitecturaRed.ipynb
+    - file: 5_ValCruzadaPaper
 
 site:
   title: Pronóstico Batimétrico ConvLSTM
